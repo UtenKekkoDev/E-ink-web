@@ -41,4 +41,4 @@ http://localhost:5173
 
 
 ## For E-ink platform
-https://github.com/YuxuanSun123/E-ink
+https://github.com/UtenKekkoDev/E-ink
